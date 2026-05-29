@@ -1,11 +1,31 @@
-Blog_laboratorio1_DAR
+# Classic Movie List
 
-Este repositorio contiene el proyecto del Laboratorio 1 de la asignatura Desarrollo de Aplicaciones en Red (DAR) de la UNIR.
+Simple web application developed using HTML, CSS and JavaScript.
 
-Incluye:
-- `index.html`: página principal del blog.
-- `estilos.css`: hoja de estilos.
-- `script.js`: funcionalidades básicas del sitio.
+Users can:
 
-El blog se publica mediante GitHub Pages en:  
+- View a list of classic movies
+- Add new movies dynamically
+- Navigate through the page using internal links
 
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Live Demo
+
+https://raquelgpesqueira.github.io/classic-movie-list/
+
+## Future Development
+
+This project serves as a basic frontend prototype and may be reused or expanded in future web development projects.
+
+## Live Demo
+
+https://raquelgpesqueira.github.io/classic-movie-list/
+
+## Author
+
+Raquel G. Pesqueira
