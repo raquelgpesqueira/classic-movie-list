@@ -1,8 +1,5 @@
-//---------------------- LABORATORIO 1 * DESARROLLO DE APLICACIONES EN RED * ------------------------
-//---------------------------------- * RAQUEL GONZÁLEZ PESQUEIRA * ----------------------------------
-//----------------------------------------------- JS ------------------------------------------------
 
-// Código apra el script en JavaScript
+// Código para el script en JavaScript
 function buscar(){
 
     //leemos el texto del input incluido e identificado a través del id
